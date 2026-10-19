@@ -1,1 +1,1 @@
-{"name": "hw6", "version": "1.0.0", "scripts": {"build": "echo Building..."}} 
+{ "name": "hw6", "scripts": { "build": "echo success" } } 
